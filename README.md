@@ -1,1 +1,3 @@
-# Imers-o_dados_python_Alura
+# Imersão Dados Python – Alura
+
+Projeto desenvolvido durante a Imersão Dados da Alura, com foco em análise de dados utilizando Python.
